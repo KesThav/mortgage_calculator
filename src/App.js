@@ -16,7 +16,6 @@ import { Logo } from './Logo';
 import './App.css';
 
 const App = () => {
-  const [m, setM] = useState(0);
   const [p, setP] = useState(450000);
   const [r, setR] = useState(3);
   const [n, setN] = useState(25);
